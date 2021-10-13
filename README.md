@@ -10,10 +10,9 @@ Our project aims to develop AES by using BERT base and BERT-LSTM models in order
 
 Each folder includes a .ipynb notebook that corresponds to the name of the folder. 
 
-##˚ Folders:
+## Folders:
 * EDA 
 * Semantic Score
 * Prompt-Relevance Score
 * Coherence Score
 * Second Stage 
-˚
